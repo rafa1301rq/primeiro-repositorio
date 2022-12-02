@@ -1,10 +1,8 @@
 # primeiro-repositorio  #<html>
-    <h1>Meu primeiro arquivo em HTML</h1>
+<h1>Meu primeiro arquivo em HTML</h1>
 </html>
 <h2>bolo de laranja</h2>
 <head><h3> Quem não adora uma fatia de bolo de laranja na hora do lanche? Com um cafezinho, então, fica difícil de resistir! Algumas receitas utilizam apenas o suco da laranja, mas se puder usar a casca da fruta também é melhor ainda, né?</h3></head>
-vspace: 
-<Body>
 </Html>
 <img
 src=https://www.sistersmommies.com.br/receita-de-bolo-de-laranja-integral/"></body></Html>
@@ -17,8 +15,5 @@ src=https://www.sistersmommies.com.br/receita-de-bolo-de-laranja-integral/"></bo
 <head>
 <style>
 <body><background-color>#d24dff<body></style>
-</html>
-<html>
 <html lang=“pt”>
-</html>
 <!DOCTYPE html>
